@@ -1,4 +1,4 @@
-$fn = 60;
+//$fn = 120;
 
 base_r = 40/2;
 base_offs_r = 2;
